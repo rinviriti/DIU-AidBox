@@ -1,6 +1,27 @@
-### Here is my First Complete HTML-CSS Project:
-#                                                                DIU-AidBox.
+# 🧠 AidBox
 
-It's a psychological counseling website, which will provide a lot of great tools for people especially for students to overcome their depression, stress, and anxiety.
+AidBox is a psychological counseling and student wellness platform designed to provide resources and support for individuals dealing with stress, anxiety, and depression.
+
+## Features
+
+- Mental health awareness resources
+- Counseling information
+- Appointment interface
+- Educational blogs
+- Responsive web design
+
+## Tech Stack
+
+- HTML
+- CSS
+- JavaScript
+
+## Deployment
+
+GitHub Pages
+
+## Project Type
+
+Frontend Web Development Project
 
 ![Screenshot 2024-01-01 161745](https://github.com/rinviriti/Psychological-Project/assets/155306221/f9f2887a-1626-4b42-94a4-a55394622006)
