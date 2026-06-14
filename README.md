@@ -1,6 +1,8 @@
 # 🧠 AidBox
 
 AidBox is a psychological counseling and student wellness platform designed to provide resources and support for individuals dealing with stress, anxiety, and depression.
+![Status](https://img.shields.io/badge/Status-Completed-success)
+![Type](https://img.shields.io/badge/Type-Frontend-blue)
 
 ## Features
 
